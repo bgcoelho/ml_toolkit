@@ -1,0 +1,2 @@
+model,description,tuning_parameters,notebook,train_r2,val_r2,test_r2,oos_r2_val,oos_r2,sharpe_annualized,mean_monthly_ret,std_monthly_ret,n_months,n_characteristics,missing_fill,standardized,train_start,train_end,train_n_obs,val_start,val_end,val_n_obs,test_start,test_end,test_n_obs
+PLS,Partial Least Squares Regression,"n_components=1, max_iter=500",pls_regression,0.1319766506847041,0.0717840578308121,-76.50055076323146,0.0880711076688826,-76.06835266395171,1.9011595755168162,0.038367528982211005,0.06990944938432715,552,209,0,True,1925,1944,889,1945,1956,709,1957,2022,77548

@@ -1,0 +1,2 @@
+model,description,tuning_parameters,notebook,train_r2,val_r2,test_r2,oos_r2_val,oos_r2,sharpe_annualized,mean_monthly_ret,std_monthly_ret,n_months,n_characteristics,missing_fill,standardized,train_start,train_end,train_n_obs,val_start,val_end,val_n_obs,test_start,test_end,test_n_obs
+Lasso,Lasso Regression (L1 regularization),"alpha=0.01, n_nonzero=4",ridge_lasso,0.15996346202204903,0.17018937599563067,0.1347023350549832,0.18474974538309807,0.13952784922768846,4.90366601633318,0.10907399420263444,0.07705324918710764,552,209,0,True,1925,1944,889,1945,1956,709,1957,2022,77548

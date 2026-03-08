@@ -1,0 +1,2 @@
+model,penalty,best_C,train_accuracy,val_accuracy,test_accuracy,test_auc_roc,n_features,standardized,train_n_obs,val_n_obs,test_n_obs,notebook
+Logistic Regression,l2,0.1,0.9489291598023064,0.8118811881188119,0.7512315270935961,0.876796875,138,True,1214,404,406,logistic_classification

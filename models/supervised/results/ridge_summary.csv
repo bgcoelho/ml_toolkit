@@ -1,0 +1,2 @@
+model,description,tuning_parameters,notebook,train_r2,val_r2,test_r2,oos_r2_val,oos_r2,sharpe_annualized,mean_monthly_ret,std_monthly_ret,n_months,n_characteristics,missing_fill,standardized,train_start,train_end,train_n_obs,val_start,val_end,val_n_obs,test_start,test_end,test_n_obs
+Ridge,Ridge Regression (L2 regularization),alpha=1000.0,ridge_lasso,0.19190444307593302,0.06611869955886707,-3.973133228061589,0.08250515726996988,-3.94539950607554,3.411332396580349,0.06892013424379252,0.06998624601600274,552,209,0,True,1925,1944,889,1945,1956,709,1957,2022,77548
